@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-##Purpose
+*Purpose
 
 The purpose of this assignment was to determine the best machine learning models between "Balance Random Forest Classifier" and "Easy Ensemble Classifier" that redice bias to predict the credit risk. As such three different models were used to predict the risk as follows:
 1) Resampling
