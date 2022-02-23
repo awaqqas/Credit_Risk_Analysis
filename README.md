@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-*Purpose
+#Purpose
 
 The purpose of this assignment was to determine the best machine learning models between "Balance Random Forest Classifier" and "Easy Ensemble Classifier" that redice bias to predict the credit risk. As such three different models were used to predict the risk as follows:
 1) Resampling
@@ -47,7 +47,7 @@ Balanced accuracy score- 92%. High risk precision rate is 7%, high risk imabalan
 
 From these outputs, it can be safely established that both the Naive and Smote had similar results. SMOTEENN had further improvement, and forest classifier took a hit to the recall. As such, AdaBoost with both accuracy and recall over 90%.
 
-**Summary
+#Summary
 
 Since, the AdaBoost had the recall of 91%, indicating that this strategy predicted 91% of actual high risk loans. Additionally, all the other models showed poor precision rates, indicative of high false positives. An approach to address the number of false positives is still needed. 
 
